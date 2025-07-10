@@ -47,3 +47,15 @@ etc.
 
 Happy building 🚀
 Team REvamp⚡️
+
+
+## 🚀 My Project Submission
+
+**Project Name:** My Bio Page  
+**Description:** A simple webpage that shows my profile and interests.  
+**Stack Used:** HTML, CSS  
+**How to Run:**  
+1. Go to `src/my-bio-page/`  
+2. Open `index.html` in your browser
+
+**Live Link (Optional):** https://FSS3096.github.io/fork-n-build/
