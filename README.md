@@ -47,3 +47,9 @@ etc.
 
 Happy building 🚀
 Team REvamp⚡️
+
+## Project Submission
+Project name - Guess The Number
+Description - It is simple CLI game created using python
+Stack used - Python 
+How to run - Run the code in terminal but you should have python installed in your system or use online platforms 
